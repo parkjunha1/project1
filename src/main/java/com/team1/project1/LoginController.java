@@ -8,6 +8,6 @@ public class LoginController {
 
 @RequestMapping("/login")
 		public void login() {
-			System.out.println("·Î±×ÀÎ ±¸Çö");
+			System.out.println("ë¡œê·¸ì¸ í™•ì¸");
 		}
 }
